@@ -1,0 +1,24 @@
+# AgenticOS — Hong Kong Bilingual AI Governance & Workflow Templates (CC BY 4.0)
+
+> Open bilingual (Traditional Chinese `zh-HK` and English) Markdown governance policies and operational verification checklists for Hong Kong SMEs, Quantity Surveying (QS) & fit-out engineering teams, and compliance leads. Maintained by AgenticOS (https://agenticos.hk).
+
+## Canonical Host & Documentation
+- Product Home (zh-HK): https://agenticos.hk/
+- Product Home (English): https://agenticos.hk/en/
+- Hong Kong Workflow Consultation: https://agenticos.hk/automation-consultation/
+- Platform Support Docs: https://docs.agenticos.hk/
+- Canonical LLM Context Index: https://agenticos.hk/llms.txt
+- Full Bilingual Corpus: https://agenticos.hk/llms-full.txt
+- AI Resource Discovery (ARD): https://agenticos.hk/.well-known/ard.json
+
+## Open Bilingual Templates (CC BY 4.0)
+- [HK Employee Generative AI Governance Policy & Human-Approval Checklist](./templates/hk-pcpd-generative-ai-employee-policy-template.md)
+  - Canonical Hosted Markdown: https://agenticos.hk/templates/hk-pcpd-generative-ai-employee-policy-template.md
+  - Full Playbook (zh-HK): https://agenticos.hk/blog/hk-pcpd-generative-ai-employee-policy-template/
+  - Full Playbook (en): https://agenticos.hk/en/blog/hk-pcpd-generative-ai-employee-policy-template/
+- [HK QS Variation Order (VO) & Subcontractor Quote Verification Checklist](./templates/hk-qs-vo-subcontractor-quote-checklist.md)
+  - Canonical Hosted Markdown: https://agenticos.hk/templates/hk-qs-vo-subcontractor-quote-checklist.md
+  - BOQ & Subcontractor Quote Playbook (zh-HK): https://agenticos.hk/blog/hk-qs-tender-boq-subcontractor-quote-ai/
+  - BOQ & Subcontractor Quote Playbook (en): https://agenticos.hk/en/blog/hk-qs-tender-boq-subcontractor-quote-ai/
+  - Engineering & Fit-Out VO Playbook (zh-HK): https://agenticos.hk/blog/hk-engineering-design-vo-quote-playbook/
+  - Cantonese Voice Note to Quote Playbook (zh-HK): https://agenticos.hk/blog/whatsapp-cantonese-voice-note-to-quote-workflow/
