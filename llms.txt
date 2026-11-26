@@ -22,3 +22,6 @@
   - BOQ & Subcontractor Quote Playbook (en): https://agenticos.hk/en/blog/hk-qs-tender-boq-subcontractor-quote-ai/
   - Engineering & Fit-Out VO Playbook (zh-HK): https://agenticos.hk/blog/hk-engineering-design-vo-quote-playbook/
   - Cantonese Voice Note to Quote Playbook (zh-HK): https://agenticos.hk/blog/whatsapp-cantonese-voice-note-to-quote-workflow/
+- [Bilingual BOQ Tender Comparison Workbook (.xlsx)](https://agenticos.hk/templates/boq-tender-comparison-template.xlsx): Blank and fictional example tabs for comparing two subcontractor quotes against one BOQ. Record source references, exclusions, missing amounts and clarification status. Unknown amounts stay blank.
+  - Worked comparison (zh-HK): https://agenticos.hk/solutions/#boq-example
+  - Worked comparison (en): https://agenticos.hk/en/solutions/#boq-example
